@@ -1,0 +1,22 @@
+To execute this project do the following:
+1) Install MySQL on dev and prod
+2) Make the uname "root" and password "root" for dev MySQL
+3) Make the uname "prod" and password "prod" for prod MySQL
+4) MySQL Dev:
+   Create Database: database1
+   Create table: emp (id int, name varchar(20))
+   Data to be inserted: (1, Tyrion), (2, Arya)
+5) MySQL Prod:
+   Create Database: database2
+   Create table: emp (id int, name varchar(20))
+   Data to be inserted: (3, John Snow), (4, Daenerys)
+6) Maven clean the project
+7) For Developemnt profile:
+   a) Maven Build: Goal = package and Profiles = profile-development
+   b) If Build successful run the App.java
+   c) It show the output in the Console
+8) For Developemnt profile:
+   a) Maven Build: Goal = package and Profiles = profile-production
+   b) If Build successful run the App.java
+   c) It show the output in the Console
+9) The POM file gives the connection details.

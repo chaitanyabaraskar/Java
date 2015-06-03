@@ -1,0 +1,248 @@
+2015-05-31 23:23:14,956 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cloudwick.maven:MavenSql:0.0.1-SNAPSHOT @ /Users/ankitsarraf/Documents/Github/maven/MavenSql/pom.xml.
+2015-05-31 23:23:14,957 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cloudwick.maven:MavenSql:0.0.1-SNAPSHOT @ /Users/ankitsarraf/Documents/Github/maven/MavenSql/pom.xml.
+2015-05-31 23:23:18,582 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:23:18,588 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-31 23:23:18,647 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:23:18,647 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:23:20,155 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cloudwick.maven:MavenSql:0.0.1-SNAPSHOT @ /Users/ankitsarraf/Documents/Github/maven/MavenSql/pom.xml.
+2015-05-31 23:23:20,230 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:23:20,265 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-31 23:23:20,269 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:23:20,269 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:23:21,358 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:23:21,359 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-31 23:23:21,361 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:23:21,361 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:45:19,363 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:45:19,363 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-31 23:45:19,365 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:45:19,365 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:45:36,832 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-05-31 23:45:36,832 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-05-31 23:45:38,944 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:45:38,945 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-31 23:45:38,947 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:45:38,947 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:45:40,757 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-05-31 23:46:49,368 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-05-31 23:49:03,066 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-05-31 23:49:03,066 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pprofile-development  -B package
+2015-05-31 23:49:52,775 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cloudwick.maven:MavenSql:0.0.1-SNAPSHOT @ /Users/ankitsarraf/Documents/Github/maven/MavenSql/pom.xml.
+2015-05-31 23:49:52,835 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:49:52,835 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-31 23:49:52,838 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:49:52,838 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:51:23,847 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-05-31 23:51:23,848 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-05-31 23:51:25,632 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:51:25,633 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-31 23:51:25,634 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:51:25,634 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:51:28,770 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-05-31 23:51:37,316 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-05-31 23:51:37,316 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pprofile-development  -B package
+2015-05-31 23:51:52,172 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-05-31 23:51:59,762 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-05-31 23:51:59,762 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pprofile-production  -B package
+2015-05-31 23:52:20,533 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:52:20,533 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-31 23:52:20,537 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:52:20,537 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:52:52,154 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:52:52,154 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-31 23:52:52,156 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:52:52,157 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:52:53,795 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:52:53,796 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-31 23:52:53,798 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:52:53,799 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:52:58,852 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:52:58,852 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-31 23:52:58,856 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:52:58,856 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:53:07,191 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:53:07,191 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-31 23:53:07,193 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:53:07,193 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:54:01,118 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:54:01,119 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-31 23:54:01,121 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:54:01,121 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:54:07,803 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:54:07,804 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-31 23:54:07,806 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:54:07,806 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:54:34,276 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-05-31 23:54:34,277 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-05-31 23:54:36,037 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:54:36,038 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-31 23:54:36,040 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:54:36,040 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:54:37,599 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-05-31 23:54:46,714 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-05-31 23:54:46,715 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pprofile-development  -B package
+2015-05-31 23:54:59,237 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-05-31 23:55:07,114 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-05-31 23:55:07,115 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pprofile-production  -B package
+2015-05-31 23:56:03,958 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:56:03,958 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-31 23:56:03,960 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:56:03,960 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:56:38,923 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:56:38,924 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-31 23:56:38,925 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:56:38,925 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:57:44,383 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:57:44,383 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-31 23:57:44,385 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:57:44,385 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:57:54,949 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:57:54,949 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-31 23:57:54,952 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:57:54,952 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:58:16,157 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:58:16,158 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-31 23:58:16,160 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:58:16,160 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:59:30,769 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-05-31 23:59:30,769 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pprofile-production  -B package
+2015-05-31 23:59:39,599 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-05-31 23:59:39,599 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-05-31 23:59:41,304 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:59:41,305 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-05-31 23:59:41,306 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-05-31 23:59:41,307 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-05-31 23:59:42,788 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-05-31 23:59:53,530 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-05-31 23:59:53,531 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pprofile-development  -B package
+2015-06-01 00:00:02,842 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-06-01 00:00:02,843 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B generate-sources
+2015-06-01 00:00:04,273 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 00:00:04,273 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-01 00:00:04,275 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 00:00:04,275 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 00:00:10,640 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-06-01 00:00:10,641 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-01 00:00:14,075 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 00:00:14,076 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-01 00:00:14,078 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 00:00:14,080 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 00:06:35,803 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 00:06:35,804 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-01 00:06:35,805 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 00:06:35,805 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 00:06:37,362 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 00:06:37,363 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-01 00:06:37,363 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 00:06:37,363 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 00:28:52,584 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-06-01 00:28:52,584 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-01 00:28:55,955 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 00:28:55,955 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-01 00:28:55,957 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 00:28:55,957 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 01:18:09,827 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-06-01 01:18:09,828 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-06-01 01:18:13,539 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 01:18:13,540 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-01 01:18:13,542 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 01:18:13,542 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 01:32:11,319 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-06-01 01:32:11,319 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pprofile-development  -B package
+2015-06-01 10:57:37,448 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-06-01 10:57:46,415 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-06-01 10:57:46,416 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pprofile-development  -B package
+2015-06-01 11:17:25,772 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cloudwick.maven:MavenSql:0.0.1-SNAPSHOT @ /Users/ankitsarraf/Documents/Github/maven/MavenSql/pom.xml.
+2015-06-01 11:17:26,352 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:17:26,417 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-01 11:17:26,441 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:17:26,441 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 11:17:40,711 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cloudwick.maven:MavenSql:0.0.1-SNAPSHOT @ /Users/ankitsarraf/Documents/Github/maven/MavenSql/pom.xml.
+2015-06-01 11:17:40,730 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:17:40,742 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-01 11:17:40,743 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:17:40,743 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 11:19:51,204 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cloudwick.maven:MavenSql:0.0.1-SNAPSHOT @ /Users/ankitsarraf/Documents/Github/maven/MavenSql/pom.xml.
+2015-06-01 11:19:51,221 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:19:51,222 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-01 11:19:51,223 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:19:51,223 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 11:26:01,907 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cloudwick.maven:MavenSql:0.0.1-SNAPSHOT @ /Users/ankitsarraf/Documents/Github/maven/MavenSql/pom.xml.
+2015-06-01 11:26:01,952 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:26:01,953 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-01 11:26:01,954 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:26:01,954 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 11:26:07,855 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-06-01 11:26:07,855 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-01 11:26:10,186 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:26:10,188 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-01 11:26:10,190 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:26:10,191 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 11:26:28,461 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-06-01 11:26:28,461 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-01 11:26:30,151 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:26:30,151 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-01 11:26:30,153 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:26:30,154 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 11:26:34,954 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-06-01 11:27:06,660 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-06-01 11:27:18,392 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-06-01 11:27:18,393 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pprofile-production  -B package
+2015-06-01 11:42:44,208 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cloudwick.maven:MavenSql:0.0.1-SNAPSHOT @ /Users/ankitsarraf/Documents/Github/maven/MavenSql/pom.xml.
+2015-06-01 11:42:44,275 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:42:44,275 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-01 11:42:44,276 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:42:44,277 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 11:42:48,053 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cloudwick.maven:MavenSql:0.0.1-SNAPSHOT @ /Users/ankitsarraf/Documents/Github/maven/MavenSql/pom.xml.
+2015-06-01 11:42:48,082 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:42:48,082 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-01 11:42:48,085 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:42:48,085 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 11:42:59,861 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cloudwick.maven:MavenSql:0.0.1-SNAPSHOT @ /Users/ankitsarraf/Documents/Github/maven/MavenSql/pom.xml.
+2015-06-01 11:42:59,880 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:42:59,880 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-01 11:42:59,881 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:42:59,881 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 11:46:25,081 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cloudwick.maven:MavenSql:0.0.1-SNAPSHOT @ /Users/ankitsarraf/Documents/Github/maven/MavenSql/pom.xml.
+2015-06-01 11:46:25,097 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:46:25,097 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-01 11:46:25,098 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:46:25,098 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 11:46:33,177 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-06-01 11:46:33,178 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-01 11:46:34,962 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:46:34,962 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-01 11:46:34,964 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:46:34,965 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 11:46:38,665 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-06-01 11:46:48,475 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-06-01 11:46:48,476 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pprofile-development  -B package
+2015-06-01 11:47:02,023 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-06-01 11:47:09,127 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-06-01 11:47:09,127 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pprofile-production  -B package
+2015-06-01 11:55:11,718 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cloudwick.maven:MavenSql:0.0.1-SNAPSHOT @ /Users/ankitsarraf/Documents/Github/maven/MavenSql/pom.xml.
+2015-06-01 11:55:11,762 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:55:11,762 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-06-01 11:55:11,763 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:55:11,763 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 11:55:15,544 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-06-01 11:55:15,544 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-01 11:55:17,396 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:55:17,396 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-01 11:55:17,399 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 11:55:17,399 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
+2015-06-01 11:55:19,419 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-06-01 11:55:28,081 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-06-01 11:55:28,081 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pprofile-production  -B package
+2015-06-01 11:56:04,444 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-06-01 11:56:12,923 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-06-01 11:56:12,923 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pprofile-development  -B package
+2015-06-01 12:02:08,221 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-06-01 12:02:15,887 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-06-01 12:02:15,888 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pprofile-production  -B package
+2015-06-01 12:04:15,666 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ankitsarraf/Documents/Github/maven/MavenSql
+2015-06-01 12:04:15,667 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-06-01 12:04:17,390 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 12:04:17,391 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-06-01 12:04:17,392 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-06-01 12:04:17,393 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ankitsarraf/Documents/Github/maven/MavenSql/src/test/resources
